@@ -8,9 +8,8 @@
 
 ## 🏫 Bootcamp Adventures
 
-- DataCamp : [Datacamp Profile](https://www.datacamp.com/profile/azkarohbiya)
-- Hackerrank : [Hackerrank Profile](https://www.hackerrank.com/azkarohbiya)
-- SoloLearn : [SoloLearn Profile](https://www.sololearn.com/profile/21910164)
+- DataCamp : [Datacamp Profile](https://www.datacamp.com/profile/bintangapriansyah98)
+- Hackerrank : [Hackerrank Profile](https://www.hackerrank.com/bintangapriansy1)
 
 *Containing Courses, Project, and Career Tracks*
 
@@ -22,6 +21,8 @@
 ## 💻 Technical Skills
 #### Programming languages
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-SPSS-informational?style=flat&logo=spss&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8)
@@ -61,3 +62,13 @@
 #### Programming Tools
 ![](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=6aa6f8)
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
