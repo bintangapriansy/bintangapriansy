@@ -12,7 +12,7 @@
 
 - 🔭 Working with remarkable team **Digital Lifestyle Advanced Analytics, Telkomsel**
 - 🌱 Now, I've been learning **Python, Machine Learning, and Deep Learning**
-- 💬 Ask me about **Data Scientist, Data Analyst, Python/R Programming,**
+- 💬 Ask me about **Data Scientist, Data Analyst, Python/R Programming**
 - ⚡ Daily Activity **Eat, Sleep, Coding, Repeat**
 
 ## 🏫 Bootcamp Adventures
