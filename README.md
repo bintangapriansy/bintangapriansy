@@ -1,9 +1,9 @@
 ## 🧔 Profile
 
-- 🔭 Working with remarkable team **Advanced Analytics and Growth Marketing, Telkomsel**
-- 🌱 Now, I've been learning **Advanced Statistics, Python, Machine Learning, and Deep Learning**
-- 💬 Ask me about **Data Issues, Python Programming**
-- 📫 How to reach me **azkarohbiya@gmail.com**
+- 🔭 Working with remarkable team **Digital Lifestyle Advanced Analytics, Telkomsel**
+- 🌱 Now, I've been learning **Python, Machine Learning, and Deep Learning**
+- 💬 Ask me about **Data Scientist, Python Programming**
+- 📫 How to reach me **bintangapriansyah98@gmail.com**
 - ⚡ Daily Activity **Learning, Coding, get some Sleep**
 
 ## 🏫 Bootcamp Adventures
@@ -72,3 +72,5 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 ---
+
+
