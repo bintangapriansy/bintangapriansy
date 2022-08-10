@@ -18,7 +18,7 @@
 ## 🏫 Bootcamp Adventures
 
 - DataCamp : [Datacamp Profile](https://www.datacamp.com/profile/bintangapriansyah98)
-- Hackerrank : [Hackerrank Profile](https://www.hackerrank.com/bintangapriansy1)
+- Hackerrank : [Hackerrank Profile](https://www.hackerrank.com/bintangapriansy)
 
 *Containing Courses, Project, and Career Tracks*
 
